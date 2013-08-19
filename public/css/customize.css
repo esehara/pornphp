@@ -1,0 +1,16 @@
+body {
+    margin-top: 100px;
+}
+
+.row {
+    margin-top: 32px;
+}
+
+.videocontent {
+    border: 1px solid gray;
+}
+
+.videocontent .title {
+    background-color: #003;
+    color: white;
+}
